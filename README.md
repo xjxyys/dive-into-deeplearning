@@ -1,2 +1,2 @@
-# dive-into-dl
- my solution for dive-into-dl
+# dive-into-deeplearning
+ my solution for dive-into-deeplearning
