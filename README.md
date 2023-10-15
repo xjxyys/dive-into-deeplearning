@@ -1,2 +1,2 @@
 # dive-into-deeplearning
- my solution for dive-into-deeplearning
+ my solutions for dive-into-deeplearning
