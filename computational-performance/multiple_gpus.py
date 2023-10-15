@@ -115,3 +115,9 @@ def train(num_gpus, batch_size, lr):
 def test4():
     train(num_gpus=1, batch_size=256, lr=0.2)
     train(num_gpus=2, batch_size=256, lr=0.2)
+
+if __name__ == "__main__":
+    # test1()
+    # test2()
+    # test3()
+    test4()
